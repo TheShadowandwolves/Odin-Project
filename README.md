@@ -1,0 +1,1 @@
+This repo is for studying in The odin Project! They told me to make a nice Readme file, but I have no clue on what to write down. I am a programmer, already with knowledge in web development, but need of certification. See my other projects that I have done over past years in my github page.
